@@ -4,3 +4,8 @@
 - 网络同步约等于摆设，基本没有调好
 
   apk 文件分享:[https://share.weiyun.com/GwOAImNw](https://paste.ubuntu.com/p/ZJqZ4ZPH2x/)
+
+- 运行截图
+  ![](./image/1.png)
+  ![](./image/2.png)
+  ![](./image/3.png)
